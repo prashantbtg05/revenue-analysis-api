@@ -175,7 +175,7 @@ public class RevenueAnalysisController {
 
 
 	/*
-	 *  API Method to return TOTAL WIN AMOUNT by MEMBER_ID
+	 *  API Method to return TOTAL COUNT OF WAGER by MEMBER_ID
 	 *  Optional Parameters - Month & Game ID
 	 *  EXAMPLE - 				http://localhost:8080/revenue/wagercount/1001  
 	 *  BY MONTH & GAME ID - 	http://localhost:8080/revenue/wagercount/1001?month=201709&game_id=1050
